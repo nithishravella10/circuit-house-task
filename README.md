@@ -1,4 +1,4 @@
-# Tamil Movies Metadata Scraper
+# Movies Scraper
 
 ## Overview  
 Python automation task is designed to efficiently scrape Tamil movie metadata from Letterboxd, used **Selenium** for web scraping, **BeautifulSoup** for parsing HTML, and **Supabase** as the database. Automation was implemented to handle data extraction across multiple pages, ensuring that all relevant details were collected and stored seamlessly. Research into the structure of the website and the volume of data helped refine the scraping strategy. When technical challenges hit, AI is used for guidance and troubleshooting, streamlining the overall implementation.
